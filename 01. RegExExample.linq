@@ -6,7 +6,7 @@ List<string> inputs = new List<string>
 	"play_Log_20150601",
 	"aPlay_Log_20150601",
 	"play_Log_20150601",
-	"Play_Log_20"
+	"Play_Log_201"
 };
 
 string pattern = "^Play_Log_([0-9]{8})$";
